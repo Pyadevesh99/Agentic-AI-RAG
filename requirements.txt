@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+boto3
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-google-genai
+psycopg2-binary
+pgvector
+sqlalchemy
+pypdf
+sentence-transformers
+python-multipart
+PyJWT
